@@ -10,4 +10,5 @@ public interface IButterpillar extends Comparable<IButterpillar>{
 	
 	double getLeavesEaten();
 
+
 }
